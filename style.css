@@ -1,0 +1,13 @@
+.picturesize {
+    width: 500px;
+    margin: auto;
+    
+}
+
+button {
+    color: red !important;
+ }
+
+ img{
+    transition: 1s;
+ }
